@@ -40,8 +40,8 @@ variable "region" {
   default = "KR"
 }
 variable "access_key" {
-  default = "48765B92FC8704F44DD2"
+  default = ""
 }
 variable "secret_key" {
-  default = "0A34440818D4005C3BFA6DAC852141E28F0B5918"
+  default = ""
 }
